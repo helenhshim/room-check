@@ -44,6 +44,9 @@ writes verdicts back        find_similar, ready_to_buy
 | `api/_auth.py`, `api/keys.py` | Personal connector URLs and rate-limited key issuing |
 | `engine/` | Fetching, extraction, search, judgment, caps and shared state |
 | `tests/` | Offline tests (no network, no API keys) |
+| `docs/spec.md` | Product spec: problem, users, phases, flows, evals, risks |
+| `docs/architecture.md` | Technical design: system overview, decisions, data flow |
+| `GLOSSARY.md` | The words the product and the judge use (confirmed rule, Watch, block, over-block) |
 
 ## Holding judgment to evals
 
