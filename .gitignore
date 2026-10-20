@@ -1,0 +1,15 @@
+# secrets and local state
+.env
+*.env.local
+*.sqlite
+*.sqlite3
+*.db
+data/
+# python / node
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+# os
+.DS_Store
+.vercel

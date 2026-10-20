@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "fluid": true,
+  "functions": {
+    "api/mcp.py": {
+      "maxDuration": 60,
+      "excludeFiles": "{tests/**,evals/**,scripts/**,docs/**,data/**,.scratch/**,**/__pycache__/**}"
+    }
+  }
+}

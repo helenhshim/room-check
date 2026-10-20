@@ -1,0 +1,4 @@
+anthropic>=1.15
+pydantic>=2.14
+pillow>=12
+mcp>=2.3,<3
