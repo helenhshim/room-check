@@ -13,6 +13,12 @@ The room lives in Notion, so you can edit it, share it, and watch the verdicts c
 3. On the same page, connect Notion and pick the workspace with your copy.
 4. Paste the starter prompt from the template into a new Claude chat.
 
+## What it looks like in use
+
+This is my real Living room database in Notion after I started using Room check: every piece photographed, scored, with why it fits and what to watch. [Open the live page](https://app.notion.com/p/Living-room-database-0984e3e36c2f83c8883d81c69e047ada).
+
+[![My real Living room database in Notion: a gallery of checked pieces with scores, fits and watch-outs](docs/img/living-room-database.jpg)](https://app.notion.com/p/Living-room-database-0984e3e36c2f83c8883d81c69e047ada)
+
 ## How it works
 
 ```
