@@ -4,6 +4,8 @@ Room check is a hosted MCP connector that judges furniture against a real room. 
 
 It started as a fix for a problem I kept having: furniture that looks great on a product page and wrong in the room, because nobody checked it against the walnut coffee table that was already there.
 
+To read more about the product thinking behind this build, read more here: [https://www.helenshim.me/work/room-check](https://www.helenshim.me/work/room-check)
+
 ## Try it in 2 minutes
 
 The room lives in Notion, so you can edit it, share it, and watch the verdicts change. Start with the sample room, then make it yours.
